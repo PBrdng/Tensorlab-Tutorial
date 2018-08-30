@@ -11776,7 +11776,6 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Introduction-to-Tensorlab">Introduction to Tensorlab<a class="anchor-link" href="#Introduction-to-Tensorlab">&#182;</a></h1><p>by Paul Breiding (<a href="https://personal-homepages.mis.mpg.de/breiding/">https://personal-homepages.mis.mpg.de/breiding/</a>, breiding@mis.mpg.de).</p>
-<p><br></p>
 <p>This notebook is a tutorial for <font style="color:rgb(0,88,123)"> Tensorlab</font>, a MATLAB toolbox for tensor computations. You can download Tensorlab at</p>
 
 <pre><code>    https://www.tensorlab.net
@@ -11789,7 +11788,18 @@ div#notebook {
   "pip install pymatbridge"
   "pip install matlab_kernel" and 
   "python -m matlab_kernel install"</li>
-<li>Point the kernel to your version of Matlab. I added export "MATLAB_EXECUTABLE=/Applications/MATLAB_R2015b.app/bin/matlab" to my .bash_profile file. To do this from Terminal, type echo “export MATLAB_EXECUTABLE=/Applications/MATLAB_2015b.app/bin/matlab” &gt;&gt; ~/.bash_profile. Of course, make sure the location and version of Matlab match yours. Restart terminal or load .bash_profile. Type ipython notebook in Terminal. Your browser will open a Jupyter window, where on the right hand side you can go to New -&gt; Notebooks -&gt; Matlab.</li>
+<li><p>Point the kernel to your version of Matlab. I added export</p>
+
+<pre><code>  "MATLAB_EXECUTABLE=/Applications/MATLAB_R2015b.app/bin/matlab" 
+
+</code></pre>
+<p>to my .bash_profile file. To do this from Terminal, type echo</p>
+
+<pre><code>  “export MATLAB_EXECUTABLE=/Applications/MATLAB_2015b.app/bin/matlab” &gt;&gt; ~/.bash_profile
+
+</code></pre>
+<p>Of course, make sure the location and version of Matlab match yours. Restart terminal or load .bash_profile. Type ipython notebook in Terminal.</p>
+</li>
 <li>You’re now ready to run your notebook! </li>
 </ul>
 <p>As of August 2018 this did not work with Python 3.6, but it did work with Python 3.5. Here is a <a href="https://conda.io/docs/user-guide/tasks/manage-python.html#using-a-different-version-of-python">guide</a> on how to switch between different Python version.</p>
