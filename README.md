@@ -12,9 +12,9 @@ Tensorlab requires MATLAB 7.9 (R2009b) or higher. To get MATLAB running in jupyt
 
 This tutorial is inspired by the Tensorlab online manual and the Tensorlab Demos available at 
 
-	https://www.tensorlab.net/doc/
+https://www.tensorlab.net/doc/
 
 and
 
-         https://www.tensorlab.net/demos/ 
+https://www.tensorlab.net/demos/ 
 
