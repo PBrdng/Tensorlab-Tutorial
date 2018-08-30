@@ -1,0 +1,375 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="1.1" inkscape:version="0.48.4 r9939" width="274.54875" height="120.43875" xml:space="preserve" sodipodi:docname="tensorization.pdf">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath24">
+      <path d="m -14.17339,0.76514 0,-1.53074 28.34679,0 0,1.53074 -28.34679,0 z" id="path26"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath38">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path40"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient42">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop44"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop46"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop48"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath74">
+      <path d="m 28.5594,-19.63008 0,-28.3468 28.3468,0 0,28.3468 -28.3468,0 z" id="path76"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath88">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path90"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient92">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop94"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop96"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop98"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath108">
+      <path d="m 56.9062,-19.63008 0,-28.3468 10.91338,10.91336 0,28.3468 -10.91338,-10.91336 z" id="path110"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath122">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path124"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient126">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop128"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop130"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop132"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath142">
+      <path d="m 28.5594,-19.63008 10.91336,10.91336 28.34682,0 -10.91338,-10.91336 -28.3468,0 z" id="path144"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath156">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path158"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient160">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop162"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop164"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop166"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath196">
+      <path d="m 88.30046,14.59857 0,-28.34678 28.3468,0 0,28.34678 -28.3468,0 z" id="path198"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath210">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path212"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient214">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop216"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop218"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop220"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath230">
+      <path d="m 116.64726,14.59857 0,-28.34678 21.82674,21.8267 0,28.34682 -21.82674,-21.82674 z" id="path232"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath244">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path246"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient248">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop250"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop252"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop254"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath264">
+      <path d="m 88.30046,14.59857 21.82672,21.82674 28.34682,0 -21.82674,-21.82674 -28.3468,0 z" id="path266"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath278">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path280"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient282">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop284"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop286"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop288"/>
+    </radialGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath306">
+      <path d="m 141.73402,-31.18167 0,-28.3468 56.69362,0 0,28.3468 -56.69362,0 z" id="path308"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath320">
+      <path d="M 0,0 100,0 100,100 0,100 0,0 z" id="path322"/>
+    </clipPath>
+    <radialGradient fx="50.00064" fy="50.00064" cx="50.00064" cy="50.00064" r="50.00064" gradientUnits="userSpaceOnUse" id="radialGradient324">
+      <stop style="stop-opacity:1;stop-color:#ccdded" offset="0" id="stop326"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="25.00032" id="stop328"/>
+      <stop style="stop-opacity:1;stop-color:#99bbdb" offset="50.00064" id="stop330"/>
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1680" inkscape:window-height="987" id="namedview4" showgrid="false" inkscape:zoom="1.325812" inkscape:cx="137.27437" inkscape:cy="60.219376" inkscape:window-x="1911" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="g10"/>
+  <g id="g10" inkscape:groupmode="layer" inkscape:label="tensorization" transform="matrix(1.25,0,0,-1.25,0,120.43875)">
+    <g id="g12" transform="translate(21.014,59.727)">
+      <g id="g14">
+        <g id="g16">
+          <g id="g18">
+            <g id="g20">
+              <g id="g22" clip-path="url(#clipPath24)">
+                <g id="g28" transform="matrix(0.567,0,0,0.03061,0,-2.1e-4)">
+                  <g id="g30">
+                    <g id="g32" transform="translate(-50,-50)">
+                      <g id="g34">
+                        <g id="g36" clip-path="url(#clipPath38)">
+                          <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient42);stroke:none" id="path50"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <path d="m -14.17339,0.76514 0,-1.53074 28.34679,0 0,1.53074 -28.34679,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path52"/>
+            <path d="m 14.1734,0.76514 0,-1.53074 0,0 0,1.53074 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path54"/>
+            <path d="m -14.17339,0.76514 0,0 28.34679,0 0,0 -28.34679,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path56"/>
+            <g id="g58"/>
+            <g id="g60" transform="translate(8.504,-3.6)">
+              <g id="g62"/>
+              <g id="g64" transform="translate(-8.504,3.6)"/>
+            </g>
+          </g>
+          <g id="g66">
+            <g id="g68">
+              <g id="g70">
+                <g id="g72" clip-path="url(#clipPath74)">
+                  <g id="g78" transform="matrix(0.567,0,0,0.567,42.7328,-33.80348)">
+                    <g id="g80">
+                      <g id="g82" transform="translate(-50,-50)">
+                        <g id="g84">
+                          <g id="g86" clip-path="url(#clipPath88)">
+                            <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient92);stroke:none" id="path100"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path d="m 28.5594,-19.63008 0,-28.3468 28.3468,0 0,28.3468 -28.3468,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path102"/>
+              <g id="g104">
+                <g id="g106" clip-path="url(#clipPath108)">
+                  <g id="g112" transform="matrix(0.21829,0,0,0.7853,62.36288,-28.3468)">
+                    <g id="g114">
+                      <g id="g116" transform="translate(-50,-50)">
+                        <g id="g118">
+                          <g id="g120" clip-path="url(#clipPath122)">
+                            <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient126);stroke:none" id="path134"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path d="m 56.9062,-19.63008 0,-28.3468 10.91338,10.91336 0,28.3468 -10.91338,-10.91336 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path136"/>
+              <g id="g138">
+                <g id="g140" clip-path="url(#clipPath142)">
+                  <g id="g146" transform="matrix(0.7853,0,0,0.21829,48.18948,-14.17339)">
+                    <g id="g148">
+                      <g id="g150" transform="translate(-50,-50)">
+                        <g id="g152">
+                          <g id="g154" clip-path="url(#clipPath156)">
+                            <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient160);stroke:none" id="path168"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path d="m 28.5594,-19.63008 10.91336,10.91336 28.34682,0 -10.91338,-10.91336 -28.3468,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path170"/>
+            </g>
+            <g id="g172" transform="translate(42.732,-33.803)">
+              <g id="g174"/>
+              <g id="g176" transform="translate(-42.732,33.803)"/>
+            </g>
+          </g>
+          <g id="g178">
+            <path d="m 8.17657,-2.62276 c 3.26575,-7.85861 9.55385,-13.60669 17.23757,-16.01964" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" id="path180"/>
+            <g id="g182" transform="matrix(0.95515,-0.29994,0.29994,0.95515,25.41414,-18.6424)">
+              <g id="g184">
+                <path d="M -1.19551,1.59401 C -1.09587,0.99626 0,0.09961 0.29886,0 0,-0.09961 -1.09587,-0.99626 -1.19551,-1.59401" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.31879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path186"/>
+              </g>
+            </g>
+          </g>
+          <g id="g188">
+            <g id="g190">
+              <g id="g192">
+                <g id="g194" clip-path="url(#clipPath196)">
+                  <g id="g200" transform="matrix(0.567,0,0,0.567,102.47385,0.42517)">
+                    <g id="g202">
+                      <g id="g204" transform="translate(-50,-50)">
+                        <g id="g206">
+                          <g id="g208" clip-path="url(#clipPath210)">
+                            <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient214);stroke:none" id="path222"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path d="m 88.30046,14.59857 0,-28.34678 28.3468,0 0,28.34678 -28.3468,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path224"/>
+              <g id="g226">
+                <g id="g228" clip-path="url(#clipPath230)">
+                  <g id="g234" transform="matrix(0.43658,0,0,1.00359,127.56062,11.33855)">
+                    <g id="g236">
+                      <g id="g238" transform="translate(-50,-50)">
+                        <g id="g240">
+                          <g id="g242" clip-path="url(#clipPath244)">
+                            <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient248);stroke:none" id="path256"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path d="m 116.64726,14.59857 0,-28.34678 21.82674,21.8267 0,28.34682 -21.82674,-21.82674 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path258"/>
+              <g id="g260">
+                <g id="g262" clip-path="url(#clipPath264)">
+                  <g id="g268" transform="matrix(1.00359,0,0,0.43658,113.38722,25.51193)">
+                    <g id="g270">
+                      <g id="g272" transform="translate(-50,-50)">
+                        <g id="g274">
+                          <g id="g276" clip-path="url(#clipPath278)">
+                            <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient282);stroke:none" id="path290"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path d="m 88.30046,14.59857 21.82672,21.82674 28.34682,0 -21.82674,-21.82674 -28.3468,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path292"/>
+            </g>
+            <g id="g294" transform="translate(102.473,0.425)">
+              <g id="g296"/>
+              <g id="g298" transform="translate(-102.473,-0.425)"/>
+            </g>
+          </g>
+          <g id="g300">
+            <g id="g302">
+              <g id="g304" clip-path="url(#clipPath306)">
+                <g id="g310" transform="matrix(1.134,0,0,0.567,170.08084,-45.35507)">
+                  <g id="g312">
+                    <g id="g314" transform="translate(-50,-50)">
+                      <g id="g316">
+                        <g id="g318" clip-path="url(#clipPath320)">
+                          <path d="M 0,0 100,0 100,100 0,100 0,0 z" style="fill:url(#radialGradient324);stroke:none" id="path332"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <path d="m 141.73402,-31.18167 0,-28.3468 56.69362,0 0,28.3468 -56.69362,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path334"/>
+            <path d="m 198.42764,-31.18167 0,-28.3468 0,0 0,28.3468 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path336"/>
+            <path d="m 141.73402,-31.18167 0,0 56.69362,0 0,0 -56.69362,0 z" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path338"/>
+            <g id="g340"/>
+            <g id="g342" transform="translate(170.079,-45.354)">
+              <g id="g344"/>
+              <g id="g346" transform="translate(-170.079,45.354)"/>
+            </g>
+          </g>
+          <g id="g348">
+            <g id="g350" transform="translate(123.194,-7.2)">
+              <g id="g352"/>
+              <g id="g354" transform="translate(-123.194,7.2)"/>
+            </g>
+          </g>
+          <g id="g356">
+            <path d="m 94.84853,21.14664 28.34681,0" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883,1.99255;stroke-dashoffset:0" id="path358"/>
+          </g>
+          <g id="g360">
+            <path d="m 123.19534,-7.20013 0,28.34677" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883,1.99255;stroke-dashoffset:0" id="path362"/>
+          </g>
+          <g id="g364">
+            <g id="g366" transform="translate(135.199,4.805)">
+              <g id="g368"/>
+              <g id="g370" transform="translate(-135.199,-4.805)"/>
+            </g>
+          </g>
+          <g id="g372">
+            <path d="m 106.8533,33.15141 28.34679,0" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883,1.99255;stroke-dashoffset:0" id="path374"/>
+          </g>
+          <g id="g376">
+            <path d="m 135.20009,4.80461 0,28.3468" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883,1.99255;stroke-dashoffset:0" id="path378"/>
+          </g>
+          <g id="g380">
+            <g id="g382" transform="translate(158.74,-31.181)">
+              <g id="g384"/>
+              <g id="g386" transform="translate(-158.74,31.181)"/>
+            </g>
+          </g>
+          <g id="g388">
+            <path d="m 158.74228,-34.01631 0,-22.67749" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883,1.99255;stroke-dashoffset:0" id="path390"/>
+          </g>
+          <g id="g392">
+            <g id="g394" transform="translate(189.922,-31.181)">
+              <g id="g396"/>
+              <g id="g398" transform="translate(-189.922,31.181)"/>
+            </g>
+          </g>
+          <g id="g400">
+            <path d="m 189.92393,-34.01631 0,-22.67749" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883,1.99255;stroke-dashoffset:0" id="path402"/>
+          </g>
+          <g id="g404">
+            <path d="m 156.18684,-27.66183 c -8.20683,11.13316 -16.02862,16.33087 -29.02607,19.47618" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" id="path406"/>
+            <g id="g408" transform="matrix(-0.97238,0.2353,-0.2353,-0.97238,127.16077,-8.18565)">
+              <g id="g410">
+                <path d="M -1.19551,1.59401 C -1.09587,0.99626 0,0.09961 0.29886,0 0,-0.09961 -1.09587,-0.99626 -1.19551,-1.59401" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.31879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path412"/>
+              </g>
+            </g>
+          </g>
+          <g id="g414">
+            <path d="M 187.30496,-27.66183 C 173.68987,-9.5489 160.7925,-1.1524 139.16652,3.86745" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" id="path416"/>
+            <g id="g418" transform="matrix(-0.97455,0.22621,-0.22621,-0.97455,139.16653,3.86743)">
+              <g id="g420">
+                <path d="M -1.19551,1.59401 C -1.09587,0.99626 0,0.09961 0.29886,0 0,-0.09961 -1.09587,-0.99626 -1.19551,-1.59401" style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.31879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" id="path422"/>
+              </g>
+            </g>
+          </g>
+          <g id="g424">
+            <g id="g426" transform="translate(-8.772,3.455)">
+              <g id="g428">
+                <g id="g430" transform="translate(-12.242,-63.182)"><text transform="matrix(1,0,0,-1,12.242,63.182)" id="text432" x="0"><tspan style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;font-weight:bold;font-variant:normal;font-weight:normal;font-size:9.9626;writing-mode:lr;-inkscape-font-specification:CMBX10" x="0" y="0" id="tspan434">v</tspan></text>
+<g id="g436" transform="translate(12.242,63.182)"/></g>
+              </g>
+              <g id="g438" transform="translate(8.772,-3.455)"/>
+            </g>
+          </g>
+          <g id="g440">
+            <g id="g442" transform="translate(39.27,-37.207)">
+              <g id="g444">
+                <g id="g446" transform="translate(-60.284,-22.52)"><text transform="matrix(1,0,0,-1,60.284,22.52)" id="text448" x="0"><tspan style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10,Lucida Calligraphy;font-variant:normal;font-weight:normal;font-size:9.9626;writing-mode:lr;-inkscape-font-specification:CMSY10" x="0" y="0" id="tspan450">V</tspan></text>
+<g id="g452" transform="translate(60.284,22.52)"/></g>
+              </g>
+              <g id="g454" transform="translate(-39.27,37.207)"/>
+            </g>
+          </g>
+          <g id="g456">
+            <g id="g458" transform="translate(164.641,-48.772)">
+              <g id="g460">
+                <g id="g462" transform="translate(-185.655,-10.955)"><text transform="matrix(1,0,0,-1,185.655,10.955)" id="text464" x="0"><tspan style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;font-weight:bold;font-variant:normal;font-weight:normal;font-size:9.9626;writing-mode:lr;-inkscape-font-specification:CMBX10" x="0" y="0" id="tspan466">M</tspan></text>
+<g id="g468" transform="translate(185.655,10.955)"/></g>
+              </g>
+              <g id="g470" transform="translate(-164.641,48.772)"/>
+            </g>
+          </g>
+          <g id="g472">
+            <g id="g474" transform="translate(96.491,-2.979)">
+              <g id="g476">
+                <g id="g478" transform="translate(-117.505,-56.748)"><text transform="matrix(1,0,0,-1,117.505,56.748)" id="text480" x="0"><tspan style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10,Lucida Calligraphy;font-variant:normal;font-weight:normal;font-size:9.9626;writing-mode:lr;-inkscape-font-specification:CMSY10" x="0" y="0" id="tspan482">M</tspan></text>
+<g id="g484" transform="translate(117.505,56.748)"/></g>
+              </g>
+              <g id="g486" transform="translate(-96.491,2.979)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
