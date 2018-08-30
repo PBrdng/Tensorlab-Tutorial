@@ -11833,7 +11833,7 @@ div#notebook {
 <li>Block term decomposition</li>
 <li>Canonical polyadic decomposition (CPD)</li>
 </ul>
-<h3 id="-Multilinear-Multiplication"><font style="color:rgb(0,88,123)"> Multilinear Multiplication</font><a class="anchor-link" href="#-Multilinear-Multiplication">&#182;</a></h3><p>Recall that for $S\in \mathbb{R}^{n_1\times \cdots\times n_d}$ and $U_i\in\mathbb{R}^{m_i \times n_i}$ the multilinear multiplication is defined as follows: let $e_i$ denote the standard basis vectors and write $A=\sum s_{i_1,\ldots,i_d} \,e_{i_1}\otimes \cdots\otimes e_{i_d}$. Then</p>
+<h2 id="-Multilinear-Multiplication"><font style="color:rgb(0,88,123)"> Multilinear Multiplication</font><a class="anchor-link" href="#-Multilinear-Multiplication">&#182;</a></h2><p>Recall that for $S\in \mathbb{R}^{n_1\times \cdots\times n_d}$ and $U_i\in\mathbb{R}^{m_i \times n_i}$ the multilinear multiplication is defined as follows: let $e_i$ denote the standard basis vectors and write $A=\sum s_{i_1,\ldots,i_d} \,e_{i_1}\otimes \cdots\otimes e_{i_d}$. Then</p>
 <p>$$ (U_1,\cdots,U_d)\,s := \sum a_{i_1,\ldots,i_d} s_{i_1,\ldots,i_d}\,(M_1e_{i_1})\otimes \cdots\otimes (M_de_{i_d}).$$</p>
 
 </div>
@@ -11917,8 +11917,7 @@ ans =
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Multilinear-Singular-Value-Decomposition-(MLSVD)"><font style="color:rgb(0,88,123)">Multilinear Singular Value Decomposition (MLSVD)</font><a class="anchor-link" href="#Multilinear-Singular-Value-Decomposition-(MLSVD)">&#182;</a></h3><p><img src="lmlra.svg" alt="img"></p>
-<p><b><font style="color:rgb(152,17,53)">Reminder:</font></b> the singular value decomposition (SVD) of a matrix $T\in\mathbb{R}^{n\times m}$ ($n\leq m$): $T = U \,\Sigma \,V^T, \text{ where } \Sigma = \mathrm{diag}(\sigma_1,\ldots,\sigma_m)$ and where $U\in \mathbb{R}^{n\times m}, V\in\mathbb{R}^{m\times m}$ have orthonormal columns and $\sigma_1\geq \cdots\geq \sigma_m\geq 0$ are the singular values.</p>
+<h2 id="Multilinear-Singular-Value-Decomposition-(MLSVD)"><font style="color:rgb(0,88,123)">Multilinear Singular Value Decomposition (MLSVD)</font><a class="anchor-link" href="#Multilinear-Singular-Value-Decomposition-(MLSVD)">&#182;</a></h2><p><b><font style="color:rgb(152,17,53)">Reminder:</font></b> the singular value decomposition (SVD) of a matrix $T\in\mathbb{R}^{n\times m}$ ($n\leq m$): $T = U \,\Sigma \,V^T, \text{ where } \Sigma = \mathrm{diag}(\sigma_1,\ldots,\sigma_m)$ and where $U\in \mathbb{R}^{n\times m}, V\in\mathbb{R}^{m\times m}$ have orthonormal columns and $\sigma_1\geq \cdots\geq \sigma_m\geq 0$ are the singular values.</p>
 <ul>
 <li><p>The rank of $T$ is the number of non-zero singular values.</p>
 </li>
@@ -12069,7 +12068,7 @@ ans =
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Definition-"><font style="color:rgb(0,88,123)">Definition </font><a class="anchor-link" href="#Definition-">&#182;</a></h3><p>Let $T\in \mathbb{R}^{n_1\times \cdots\times n_d}$. The multilinear rank $(r_1,\ldots,r_d)$ of $T$ is defined by $r_i:=\mathrm{rank}(T_{(i)})$.</p>
-<p><br></p>
+<p><img src="lmlra.svg" alt="img"></p>
 <p>What is the ml-rank of $T$? Let us plot the singular values of the three matricizations.</p>
 
 </div>
@@ -12185,14 +12184,8 @@ ans =
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Block-Term-Decomposition-(BTD)"><font style="color:rgb(0,88,123)">Block Term Decomposition (BTD)</font><a class="anchor-link" href="#Block-Term-Decomposition-(BTD)">&#182;</a></h3><p><img src="btd.svg" alt="img"></p>
-<h3 id="Definition"><font style="color:rgb(0,88,123)">Definition</font><a class="anchor-link" href="#Definition">&#182;</a></h3><p>
-
-
-
-
-
-<p>Let  $T\in \mathbb{R}^{n_1\times \cdots\times n_d}$  and $r = ((r_1^1,\ldots,r_d^1), \ldots, (r_1^R,\ldots,r_d^R))$ be a $R$-tuple of $d$-tuples of positive integers. We call the decomposition $T = T_1 + \cdots + T_R$ a $r$-block term decomposition (BTD) of $A$, if $\text{ml-rank}(T_i)=(r_1^i,\ldots,r_d^i)$. The smallest such $R$ is called the BTD-rank of $T$.</p>
+<h2 id="Block-Term-Decomposition-(BTD)"><font style="color:rgb(0,88,123)">Block Term Decomposition (BTD)</font><a class="anchor-link" href="#Block-Term-Decomposition-(BTD)">&#182;</a></h2><h3 id="Definition"><font style="color:rgb(0,88,123)">Definition</font><a class="anchor-link" href="#Definition">&#182;</a></h3><p>Let  $T\in \mathbb{R}^{n_1\times \cdots\times n_d}$  and $r = ((r_1^1,\ldots,r_d^1), \ldots, (r_1^R,\ldots,r_d^R))$ be a $R$-tuple of $d$-tuples of positive integers. We call the decomposition $T = T_1 + \cdots + T_R$ a $r$-block term decomposition (BTD) of $A$, if $\text{ml-rank}(T_i)=(r_1^i,\ldots,r_d^i)$. The smallest such $R$ is called the BTD-rank of $T$.</p>
+<p><img src="btd.svg" alt="img"></p>
 <p><b><font style="color:rgb(152,17,53)">Goal of BTD:</font></b> find the best $r$-block term approximation; i.e. compute</p>
 <p>$$ \min_{B \text{ has an } r-\text{BTD}}\Vert T-B\Vert.$$</p>
 <p>Unlike for the LMLRA we have no direct method for solving this approximation problem. Tensorlab provides an optimization algorithm for solving this problem. In a nutshell, this algorithm solves the gradient equation of $\,f(B)=\frac{1}{2}\Vert T-B\Vert^2$ using a Riemann-Newton method. This method requires an initial decomposition (and hence requires specification of the rank $R$).</p>
@@ -12253,10 +12246,9 @@ ans =
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Canonical-Polyadic-Decomposition-(CPD)"><font style="color:rgb(0,88,123)">Canonical Polyadic Decomposition (CPD)</font><a class="anchor-link" href="#Canonical-Polyadic-Decomposition-(CPD)">&#182;</a></h3><p><img src="cpd.svg" alt="img"></p>
-<p>The CPD expresses a tensor $T\in\mathbb{R}^{n_1\times \cdots \times n_d}$ as a sum of rank-one tensors: $T = \sum_{i=1}^R a_1^i\otimes \cdots \otimes a_d^i.$ The smallest $R$, for which such a decomposition is possible, is called the rank of $T$.  Tensorlab's data structure for dealing with CPDs are <b><font style="color:rgb(152,17,53)">cells of factor matrices</font></b>.</p>
+<h2 id="Canonical-Polyadic-Decomposition-(CPD)"><font style="color:rgb(0,88,123)">Canonical Polyadic Decomposition (CPD)</font><a class="anchor-link" href="#Canonical-Polyadic-Decomposition-(CPD)">&#182;</a></h2><p>The CPD expresses a tensor $T\in\mathbb{R}^{n_1\times \cdots \times n_d}$ as a sum of rank-one tensors: $T = \sum_{i=1}^R a_1^i\otimes \cdots \otimes a_d^i.$ The smallest $R$, for which such a decomposition is possible, is called the rank of $T$.  Tensorlab's data structure for dealing with CPDs are <b><font style="color:rgb(152,17,53)">cells of factor matrices</font></b>.</p>
 <h3 id="Definition"><font style="color:rgb(0,88,123)">Definition</font><a class="anchor-link" href="#Definition">&#182;</a></h3><p>The factor matrices of the decomposition $T = \sum_{i=1}^R\, a_1^i\otimes \cdots \otimes a_d^i$ are $A_1:=  [a_1^1, \ldots, a_1^R] \in \mathbb{R}^{n_1\times R}, \,\ldots,\, A_d:=  [a_d^1, \ldots, a_d^R]\in \mathbb{R}^{n_d\times R}.$</p>
-<p><br></p>
+<p><img src="cpd.svg" alt="img"></p>
 <p>Let us make an example</p>
 
 </div>
